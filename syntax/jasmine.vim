@@ -13,7 +13,7 @@ syntax keyword jasmineSuite describe it beforeEach afterEach
 syntax keyword jasmineDisabled xdescribe xit
 syntax keyword jasmineExpectation expect
 syntax region jasmineNot start=/not/ end=/\.to/me=s-1
-syntax match jasmineMatcher /to\h\+/
+syntax match jasmineMatcher /\.to\h\+/
 syntax keyword jasmineSpy spyOn
 syntax match jasmineSpyMatcher /and\h\+/
 
