@@ -2,6 +2,8 @@
 
 This is a syntax highlighting plugin for the [Jasmine](http://) JavaScript testing framework. I extracted most of this from [thomd's VIM-Jasmine plugin](https://github.com/thomd/vim-jasmine) which is wonderful, but overkill for what I was looking for. I made a few modifications to suit my preferences.
 
+This plugin contributes to [vim-polyglot](https://github.com/sheerun/vim-polyglot) language pack.
+
 ## Installation
 
 ### With [Vundle](https://github.com/gmarik/vundle)
